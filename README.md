@@ -1,16 +1,14 @@
 <div> 
   <h1>
     Hey, there! I'm Antonio!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-  </br>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></br>
   <a href="https://www.linkedin.com/in/mottaluizantonio/" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge" height="20"/>
   </a>
   </h1>
 </div>
 <div align="center">
-  <h2> 🖥️ Hard skills </h2>
-	
+	<h2> 🖥️ Hard skills </br></br>	
   <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
@@ -23,6 +21,7 @@
   <img src="https://img.shields.io/badge/-django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+	</h2>
 </div>
 <!--
 **mottaluizantonio/mottaluizantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
