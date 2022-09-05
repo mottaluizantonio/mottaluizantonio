@@ -10,9 +10,9 @@
 
  ### About me:
   
-  - :computer: I enjoy working on frontend web applications;
-  - :seedling: I'm currently learning how to work with docker :whale:
-  - 👯 I’m looking to collaborate on open source projects!
+  - :computer: I enjoy working on frontend web applications
+  - :seedling: I'm currently learning how to work with Next JS
+  - 🤓 I’m looking to collaborate on open source projects!
   
   #
 <div align="center">
@@ -30,6 +30,12 @@
   <img src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
 	</h2>
+</div>
+
+<div align="center">
+  <h2> 📚 Studying </h2>
+	<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+
 </div>
 <!--
 **mottaluizantonio/mottaluizantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
