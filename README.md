@@ -3,8 +3,14 @@
     Hey, there! I'm Antonio!
     <img src="https://cdn.shopify.com/s/files/1/1061/1924/products/Nerd_with_Glasses_Emoji_2a8485bc-f136-4156-9af6-297d8522d8d1_1024x1024.png?v=1571606036" width="30"/></br>
   <a href="https://www.linkedin.com/in/mottaluizantonio/" >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge" height="20"/>
+	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+  <a href="https://portfloio-ptbr.vercel.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio_PTBR-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 target="_blank"/>
+   </a>
+    <a href="https://luizantoniomotta-portfolio-en.vercel.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio_EN-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 target="_blank"/>
+   </a>
   </h1>
 </div>
 
